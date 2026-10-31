@@ -1,0 +1,123 @@
+Underperformance
+
+Introduction
+
+We want all our team members to be successful! We continuously strive to maintain a high standard of performance across the entire company, and we are here to support our people leaders and team members along the way. We encourage regular and transparent communication across all areas of the business. We also fully recognize and accept that team members who do not meet the sustained performance expectations may be more successful at another company, and we fully support those difficult conversations and decisions.
+
+In all cases, we want a manager who asks the question “Is this the best person I could hire today?” to respond with a “Yes”.
+
+Managing Underperformance
+
+Managing and identifying underperformance can be one of the most difficult responsibilities of a manager, but it's also one of the most important. As a people leader, fairness and transparency are essential with all team members, as is addressing performance or conduct concerns in a timely and structured way.
+
+Managing Performance at GitLab
+
+GitLab strives to treat all team members with dignity and respect at all times. You can review GitLab's Team Member Relation Philosophy which outlines how we treat all team members and provides guidelines for how we address issues within GitLab. The kindest thing we can do for our team members is to address any issue early and to provide a supportive environment where they can improve their performance. Failure to act early can greatly affect the performance of the team as a whole. Effective teams require cohesion, collaboration, and actively engaging and performing team members to be successful in reaching their goals. Without this cohesiveness, there is a risk to the overall team and GitLab's success.
+
+Managing a team member who is underperforming is one of the more challenging aspects of the manager role. Though challenging, it is expected that all people leaders manage performance and provide team members with clear, actionable feedback and guidance fairly and in a timely manner. Failure to appropriately address performance concerns in a timely manner is a reflection on the manager's performance, and has a negative impact on the manager, team member, other team members, and the business. GitLab uses the skill-based and will-based performance model to identify the root cause of the team member's underperformance and to determine a suitable remediation plan. The remediation plan will be based on the type of performance issue. The Team Member Relations Team is here to assist you in identifying the cause of the performance issue and can walk you through the performance management process that applies best to the situation. Below are definitions of skills-based and will-based concerns, as well as the typical remediation plans. As with all situations, there may be unique circumstances that require unique remediation plans.
+
+Inform the Team Member Relations Team
+
+Looping in Team Member Relations early is essential. Team Member Relations can offer support, guidance, coaching, and partner with Legal to ensure compliance throughout all stages of the performance management process.  Reaching out to the TMR team is critical to managing underperformance, and not doing so within a reasonable timeframe ultimately impacts the manager's performance. Connecting with the TMR team ensures that feedback is being delivered in accordance with our guidance for giving feedback and within applicable local labor laws and regulations.
+
+Warning Signs/Patterns of Underperformance
+
+How do you know if a team member isn't reaching their goals? Below are some common warning signs and patterns of underperformance as they relate to not meeting the expectations of the role.
+
+1. Lack of results
+2. Response time delayed
+3. Unclear status of work
+4. Frustration toward the team
+5. Regular disagreements or confusion about individual / team the goals
+6. Extended team frustration
+7. Frustration from other team members
+8. Team dynamic - teamwork, communication, delivery are being affected
+9. Other team members start working around them
+10. Missed goals and timelines
+
+These are all signs of a performance issue; however, are these performance issues skill-based or will-based? Knowing the root cause of the performance issue enables the manager and team member to have open and transparent conversations to implement a plan to improve performance.
+
+Skills-based performance
+
+Team members may have the motivation to be successful, but performance is impacted due to the possible following reasons:
+
+A lack of technical capability to be successful in their current role
+A lack of soft skills/emotional intelligence to be effective in their current role
+Inability to prioritize work effectively
+Lack of understanding of how to complete tasks required for role
+
+People Leaders continuosly review skill-based performance and can identify where issues may arise. They can then determine if the team member requires additional support in the form of coaching (verbal / written), specific training, additional tools/resources, guidance or assigning the team member a mentor or buddy for an agreed period of time.
+
+Will-based performance
+
+Team members who have the skills necessary to succeed in their current role but they lack the will to perform which can be evident in the following ways:
+
+Lack of motivation or not fully engaged
+Unprofessional behavior, actions or communication towards fellow team members
+Undesirable behavior that impedes the success of another team member, team or GitLab as a whole
+
+If a manager or any team member witnesses or is made aware of any team member behavior that violates our Code of Conduct they should immediately reach out to Team Member Relations at teammemberrelations@gitlab.com.
+
+Team Member: Discuss Circumstances Immediately With Your Manager
+
+Tell your manager immediately if there are circumstances in your life that cause you to be less effective. It isn't required to give details if you prefer not to. Tell your manager when it started, to what extent it hinders your work, and what your forecast is for your circumstances to improve. When you delay this conversation until your manager identifies underperformance you've lost trust that would be helpful during this period.  Team Member Relations can also be a resource for team members experiencing circumstances that are affecting their performance.
+
+Manager: Identify And Take Action As Early As Possible
+
+The important thing to remember as a manager is to immediately address signs of underperformance. Taking action sooner allows more time for coaching to be effective and successful. In the early stage of the process it is important to identify the reasons why team members might not be meeting expectations for their role. We do this by reviewing previous performance history, ensuring the team member has been taking sufficient PTO (Paid Time Off) and also checking in to ensure all is well in their personal life and providing appropriate support when needed.
+
+As you begin to coach, refer to resources in the handbook and from Elevate for support.
+
+1. The GROW coaching model (As managers begin to coach, refer to important coaching resources in the handbook, also taught in Elevate)
+2. Managing your Inner Fixer
+3. The Trust Equation
+4. Essential Coaching Skills
+
+Immediately Discuss With The Manager's Manager
+
+Taking early action to address underperformance is an essential manager skill and one of the most important ways to improve results. As a people leader, it is best practice to inform your manager as a priority when you've identified possible underperformance and always tell us the bad news promptly. When a manager informs their leader, they can work together to ensure that underperformance is identified and that appropriate and agreed action is taken to address it.
+
+Options For Remediation
+
+Remediation options will vary based on whether the identified underperformance is due to a skill-based or will-based issue (and also in line with local applicable laws and regulations). The expectation is that all team members are provided coaching and feedback prior to a decision to exit the team member. However, it is important to note that in many cases we will not offer formal performance remediation or PIPs and will move to a separation with the team member if performance has not improved after documented coaching and feedback sessions. This is due to the critical impact of underperformance on the team and on the organization, and allows us to maintain our results-focused and high-performing culture.
+
+Coaching
+
+Coaching is the preferred option to deal with underperformance and is the first step in addressing performance issues.
+
+Managers are expected to address performance concerns (skill-based or will-based) in a timely manner. Managers should address concerns verbally during one-on-one meetings or in impromptu private coaching sessions with their team members. These conversations must be documented by the manager and shared with the team member so that both have access to the record of the discussion and are in alignment on where improvements need to be made and within a specified timeframe. Documentation should be brief (a few key bullet points or a paragraph), and will normally be sent via email or documented in 1:1 notes following the verbal discussion. See the example coaching email below:
+
+Dear (Team member name)
+
+Thank you for meeting with me today to discuss (insert topics of concern or issues discussed and any agreed-upon actions).
+
+Please know that I am fully committed to working with you in addressing these issues. If there is anything I can do to assist you in meeting these expectations, please do not hesitate to let me know. My goal in bringing this matter to your attention is to partner together in improving these areas to be successful at GitLab.
+
+Thanks,
+(Manager name)
+
+Underperformance feedback should be included on your 1-1 agenda. Helping GitLab team members understand clearly and quickly how their performance is below the expected standard is very important to foster immediate improvement and continued success. Managers should be as specific as possible and provide clear examples of where the team member is falling short. Managers should make sure the team member has the opportunity to respond to the concerns and give them the time to explain their performance. They should keep an open mind, listen actively, and ask open questions when you want to find out more. When discussing performance, it's important that the manager and team member are aligned on the expectations moving forward. It is best practice for the manager to meet with their team member at least once a week to monitor and discuss their performance.
+
+There may be extenuating circumstances that need to be taken into consideration during the performance management process. This is an area where the Team Member Relations Team can provide a sounding board or a needed perspective.
+
+Written Performance Letters and Performance Improvement Plans
+
+In some cases, a Written Performance Letter or Performance Improvement Plan may be considered as an option for performance remediation (and could be a requirement depending on local legislation). Managers should work with Team Member Relations to understand the use of these tools and any statutory requirements based on the location.
+
+Compensation Impact
+
+It is important to note that the team member may not be eligible for compensation increases from the annual compensation review or the annual refresh grant program if they are being actively performance managed.
+
+Internal Applications and Transfers during underperformance remediation
+
+When in the process of underperformance remediation team members are generally not eligible for transfer to other roles within GitLab. If the underperformance is exclusively a result of a skills mismatch (not of lack of motivation, commitment, delivery etc. or misalignment to our values) other roles within GitLab may be considered. However, a determination regarding your eligibility for such roles is at the discretion of your manager and People Business Partner.
+
+When the underperformance is resolved and you want to transfer to another role, please review the Internal Application Process for transfer. Please note that an internal reference will be conducted before the transfer is final, with this the documented underperformance may be discussed.
+
+Talent Assessment and managing underperformance
+
+Managers need to be aware and take into consideration both skill-based and will-based performance issues when they are participating in the Talent Assessment Performance/Potential Matrix process as listed in the handbook. It is critical that a manager consider these performance issues when evaluating a team member. If a team member is technically performing in their role but there are will-based performance issues that are impacting their ability or the team's ability to succeed, these need to be taken into consideration.
+
+Letting Someone Go
+
+This should be discussed with Team Member Relations before any action is taken to ensure the process is compliant with local laws and regulations. As soon as it becomes apparent that a Team Member will need to be off-boarded from the company, we recommend that this is addressed immediately. The team member is entitled to know where they stand. Delaying the conversation causes problems with confidentiality (the Team Member may realize in another way, that they will be exiting the company) and can potentially escalate the issues for the team member, the manager and the wider team (working relationships could be greatly affected).
