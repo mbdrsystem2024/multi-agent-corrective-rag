@@ -1,0 +1,387 @@
+[
+  {
+    "id": "Q001",
+    "difficulty": "medium",
+    "question": "Можно ли получить возмещение расходов, если с момента покупки прошло 100 дней?",
+    "expected_answer": "По общему правилу нет. Расходы старше 90 дней могут возместить, если их одобрит руководитель.",
+    "source_file": "data/raw/handbook/finance/spending-company-money.txt",
+    "source_section": "Guidelines",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/spending-company-money.txt#L10",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+    "evidence": [
+      {
+        "line": 10,
+        "quote": "expense claims over 90 days from purchase date will not be reimbursed unless approved by your Manager.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/spending-company-money.txt#L10"
+      }
+    ]
+  },
+  {
+    "id": "Q002",
+    "difficulty": "medium",
+    "question": "Разрешается ли пользоваться корпоративным MacBook GitLab для личной почты или просмотра фильма?",
+    "expected_answer": "Да, ограниченное личное использование допускается, если оно не нарушает закон, не причиняет вреда GitLab и не затрагивает интеллектуальную собственность.",
+    "source_file": "data/raw/handbook/finance/spending-company-money.txt",
+    "source_section": "Guidelines",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/spending-company-money.txt#L9",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/spending-company-money/",
+    "evidence": [
+      {
+        "line": 9,
+        "quote": "You may privately use GitLab property, a MacBook for example, to check your private e-mails or watch a movie as long as it does not violate the law, harm GitLab, or interfere with Intellectual Property.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/spending-company-money.txt#L9"
+      }
+    ]
+  },
+  {
+    "id": "Q003",
+    "difficulty": "medium",
+    "question": "Какие требования к чекам по рабочим расходам действуют для сотрудников GitLab в США и за пределами США?",
+    "expected_answer": "За пределами США чеки обязательны по всем расходам. Для сотрудников в США чеки обязательны только по расходам свыше 50 долларов США.",
+    "source_file": "data/raw/handbook/finance/expenses.txt",
+    "source_section": "3. General Guidelines",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L50",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/expenses/",
+    "evidence": [
+      {
+        "line": 50,
+        "quote": "For Non-US Team Members, receipts are required for all expenses. US Team Members are required to only submit receipts for any expenses over $50 USD.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L50"
+      }
+    ]
+  },
+  {
+    "id": "Q004",
+    "difficulty": "medium",
+    "question": "Через какую систему нужно проводить расход на один предмет стоимостью 5000 долларов, а через какую — свыше 5000 долларов?",
+    "expected_answer": "Расход на один предмет до 5000 долларов включительно можно оформить через Navan. Сумма свыше 5000 долларов должна проходить через закупочную процедуру в Zip.",
+    "source_file": "data/raw/handbook/finance/expenses.txt",
+    "source_section": "3. General Guidelines",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L53",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/expenses/",
+    "evidence": [
+      {
+        "line": 53,
+        "quote": "Expense claims for a single item up to $5,000 can be expensed via Navan. >$5,000 needs to go through the procurement process in Zip.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L53"
+      }
+    ]
+  },
+  {
+    "id": "Q005",
+    "difficulty": "medium",
+    "question": "К какому сроку сотрудники должны подавать отчёты о расходах и на какие даты приходятся окончания финансовых кварталов GitLab?",
+    "expected_answer": "Расходы следует подавать до конца того финансового квартала, в котором они были понесены. Даты окончания кварталов: 31 января, 30 апреля, 31 июля и 31 октября.",
+    "source_file": "data/raw/handbook/finance/expenses.txt",
+    "source_section": "2. Responsibilities / Team Members",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L23",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/expenses/",
+    "evidence": [
+      {
+        "line": 23,
+        "quote": "All Team Members should submit expenses by the end of the fiscal quarter in which the expense was incurred. GitLab's fiscal quarter end dates are January 31, April 30, July 31, October 31.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L23"
+      }
+    ]
+  },
+  {
+    "id": "Q006",
+    "difficulty": "medium",
+    "question": "Сотрудник купил для работы монитор за 100 долларов, оплатив 50 долларов подарочной картой и 50 своими деньгами. Сколько GitLab возместит?",
+    "expected_answer": "GitLab возместит 50 долларов — фактическую сумму, которую сотрудник заплатил из собственных средств.",
+    "source_file": "data/raw/handbook/finance/expenses.txt",
+    "source_section": "3. General Guidelines",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L62",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/expenses/",
+    "evidence": [
+      {
+        "line": 62,
+        "quote": "Example: An employee purchases a $100 monitor and applies a $50 gift card. GitLab will reimburse $50 (the amount actually paid), not the pre-discount price of $100.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L62"
+      }
+    ]
+  },
+  {
+    "id": "Q007",
+    "difficulty": "medium",
+    "question": "Можно ли бронировать деловой авиаперелёт вне Navan, если на другом сайте билет дешевле?",
+    "expected_answer": "По правилам GitLab деловые перелёты всё равно следует бронировать через Navan. Разницу в цене можно сообщить команде по расходам через Compass, приложив скриншоты обоих тарифов.",
+    "source_file": "data/raw/handbook/finance/expenses.txt",
+    "source_section": "4.1 TRAVEL RELATED EXPENSES / Airfare",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L104",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/expenses/",
+    "evidence": [
+      {
+        "line": 104,
+        "quote": "Even if a flight is cheaper outside of Navan, please book in Navan.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L104"
+      },
+      {
+        "line": 104,
+        "quote": "Also submit a request under the Expenses -> Travel Related Expenses page of Compass with screenshots of Navan's rate and the other airlines rate so the Expense team can address with Navan.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L104"
+      }
+    ]
+  },
+  {
+    "id": "Q008",
+    "difficulty": "easy",
+    "question": "За сколько дней до поездки GitLab рекомендует бронировать внутренние и международные авиарейсы?",
+    "expected_answer": "Внутренние рейсы рекомендуется бронировать минимум за 14 дней, международные — минимум за 21 день.",
+    "source_file": "data/raw/handbook/finance/expenses.txt",
+    "source_section": "4.1 TRAVEL RELATED EXPENSES / Airfare / Advance Purchase",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L109",
+    "source_page_url": "https://handbook.gitlab.com/handbook/finance/expenses/",
+    "evidence": [
+      {
+        "line": 109,
+        "quote": "Domestic: At least 14 days in advance",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L109"
+      },
+      {
+        "line": 110,
+        "quote": "International: At least 21 days in advance",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/finance/expenses.txt#L110"
+      }
+    ]
+  },
+  {
+    "id": "Q009",
+    "difficulty": "hard",
+    "question": "Есть ли в GitLab годовой лимит на оплачиваемый отпуск PTO и какие согласования нужны для отпуска дольше 25 календарных дней подряд?",
+    "expected_answer": "Фиксированного годового лимита PTO нет. Однако при отпуске более 25 календарных дней подряд, включая выходные и праздники, нужно специальное разрешение руководителя, People Business Partner и Absence Management Team.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt",
+    "source_section": "Flexible Paid Time Off (PTO) / Overview",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L14",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/",
+    "evidence": [
+      {
+        "line": 14,
+        "quote": "GitLab does not set a specific limit on the amount of PTO a team member can take per year. However, for time off exceeding 25 consecutive calendar days (including weekends and holidays), special permission is required from your Manager, People Business Partner, and the Absence Management Team at leaves@gitlab.com.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L14"
+      }
+    ]
+  },
+  {
+    "id": "Q010",
+    "difficulty": "easy",
+    "question": "За сколько рабочих дней нужно предупредить о планируемом отпуске PTO на три дня?",
+    "expected_answer": "Нужно предупредить минимум за шесть рабочих дней, предварительно обсудив отпуск с руководителем.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt",
+    "source_section": "Flexible Paid Time Off (PTO) / PTO Protocols (Planning and Coordination)",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L21",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/",
+    "evidence": [
+      {
+        "line": 21,
+        "quote": "Discuss planned time off with your manager first and provide as much notice as possible, but at least twice as many days as your planned time off (e.g., 6 business days notice for 3 days off).",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L21"
+      }
+    ]
+  },
+  {
+    "id": "Q011",
+    "difficulty": "medium",
+    "question": "За какое время руководитель должен сообщить о необходимости изменить планы сотрудника на PTO и что должен объяснить?",
+    "expected_answer": "В течение 48 часов руководитель должен сообщить о необходимости изменений и указать, какая цель или результат могут пострадать.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt",
+    "source_section": "Flexible Paid Time Off (PTO) / PTO Protocols (Planning and Coordination)",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L24",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/",
+    "evidence": [
+      {
+        "line": 24,
+        "quote": "If a manager needs to request changes to your PTO plans, they will do so within 48 hours and specify which goal or result may be impacted.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L24"
+      }
+    ]
+  },
+  {
+    "id": "Q012",
+    "difficulty": "easy",
+    "question": "Переносятся ли неиспользованные дни государственных праздников (public holidays) GitLab на следующий календарный год?",
+    "expected_answer": "Нет. Остаток дней государственных праздников нужно использовать в текущем календарном году; на следующий год он не переносится.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt",
+    "source_section": "Public Holiday / Overview",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L54",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/",
+    "evidence": [
+      {
+        "line": 54,
+        "quote": "The balance must be used within the calendar year, unused public holiday balances will not rollover to the following calendar year.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L54"
+      }
+    ]
+  },
+  {
+    "id": "Q013",
+    "difficulty": "easy",
+    "question": "Сколько оплачиваемых больничных дней доступно сотруднику GitLab и с какого момента?",
+    "expected_answer": "До 25 оплачиваемых больничных дней за скользящий 12-месячный период; право действует с первого рабочего дня.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt",
+    "source_section": "Sick Time / Sick Time Eligibility and Coverage",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L108",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/",
+    "evidence": [
+      {
+        "line": 108,
+        "quote": "Each GitLab team member may use up to 25 paid sick days, available from their first day of work. Eligibility is calculated on a rolling 12-month period.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L108"
+      }
+    ]
+  },
+  {
+    "id": "Q014",
+    "difficulty": "hard",
+    "question": "Что должен сделать сотрудник GitLab при больничном на три последовательных дня и нужна ли справка от врача?",
+    "expected_answer": "Нужно уведомить руководителя и внести отсутствие в Workday с категорией «Out Sick». При отсутствии меньше шести последовательных дней справка не нужна, если местное законодательство не требует обратного. Медицинские подробности руководителю сообщать не обязательно.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt",
+    "source_section": "Sick Time / Reporting Procedures / For Sick Absences 1-5 Consecutive Days",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L117",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/",
+    "evidence": [
+      {
+        "line": 117,
+        "quote": "Notify your manager of your absence. Please note that you do not need to disclose any medical information",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L117"
+      },
+      {
+        "line": 118,
+        "quote": "Enter the time away in Workday by selecting the label \"Out Sick\"",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L118"
+      },
+      {
+        "line": 120,
+        "quote": "If your absence is less than 6 consecutive days, then you do not need to provide a sick note (unless your statutory reporting requirements state otherwise)",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/time-off-types.txt#L120"
+      }
+    ]
+  },
+  {
+    "id": "Q015",
+    "difficulty": "medium",
+    "question": "Сколько длится оплачиваемый родительский отпуск GitLab и можно ли разделить его на части?",
+    "expected_answer": "GitLab предоставляет 16 недель оплачиваемого родительского отпуска. Его можно взять целиком или разделить максимум на три периода.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/leave-types.txt",
+    "source_section": "GitLab Parental Leave / Eligibility, Entitlement and Planning Your Leave",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L11",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/leave-types/",
+    "evidence": [
+      {
+        "line": 11,
+        "quote": "GitLab provides 16 weeks of paid Parental Leave",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L11"
+      },
+      {
+        "line": 14,
+        "quote": "You may take your Parental Leave all at once or split it into up to three segments.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L14"
+      }
+    ]
+  },
+  {
+    "id": "Q016",
+    "difficulty": "easy",
+    "question": "Обязан ли сотрудник GitLab отвечать на рабочие письма и согласовывать документы во время родительского отпуска?",
+    "expected_answer": "Нет. Во время родительского отпуска сотрудник не обязан заходить в системы GitLab, рассматривать или согласовывать документы о компенсациях, отвечать на рабочие письма и соблюдать рабочие дедлайны.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/leave-types.txt",
+    "source_section": "GitLab Parental Leave / No Work Required During Your Leave",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L23",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/leave-types/",
+    "evidence": [
+      {
+        "line": 23,
+        "quote": "You are not required to log into any GitLab systems, review or approve compensation documents, or respond to any work-related emails or deadlines.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L23"
+      }
+    ]
+  },
+  {
+    "id": "Q017",
+    "difficulty": "hard",
+    "question": "Как устроен возврат к работе с нагрузкой 50% после родительского отпуска: сколько он обычно длится и нужно ли оформлять его в Workday?",
+    "expected_answer": "GitLab предлагает возвращаться на работу с 50% нагрузкой. Обычный ориентир — две–четыре недели, но длительность можно согласовать индивидуально. Эта программа не учитывается в Workday и не требует согласования с Absence Management Team.",
+    "source_file": "data/raw/handbook/people-group/time-off-and-absence/leave-types.txt",
+    "source_section": "Returning to Work at 50% Capacity",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L74",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/leave-types/",
+    "evidence": [
+      {
+        "line": 74,
+        "quote": "GitLab offers team members the option to return at 50% capacity. This program is not tracked in Workday and does not require the Absence Management team’s review or approval.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L74"
+      },
+      {
+        "line": 78,
+        "quote": "The standard guideline is two to four weeks at reduced capacity, though this can be adjusted based on individual needs",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/time-off-and-absence/leave-types.txt#L78"
+      }
+    ]
+  },
+  {
+    "id": "Q018",
+    "difficulty": "hard",
+    "question": "При каких условиях сотрудник техподдержки GitLab может переносить клиентские данные категории RED на рабочий ноутбук и что делать после закрытия обращения?",
+    "expected_answer": "Исключение действует только для активных обращений в техподдержку. После разрешения обращения клиентские данные нужно незамедлительно удалить, а операции с данными — зарегистрировать и задокументировать в заявке ZenDesk.",
+    "source_file": "data/raw/handbook/people-group/acceptable-use-policy.txt",
+    "source_section": "Customer Support Data Exception",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/acceptable-use-policy.txt#L51",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+    "evidence": [
+      {
+        "line": 51,
+        "quote": "Data migration is only permitted for active customer support cases",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/acceptable-use-policy.txt#L51"
+      },
+      {
+        "line": 52,
+        "quote": "Customer data must be promptly deleted immediately upon resolution of the support case",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/acceptable-use-policy.txt#L52"
+      },
+      {
+        "line": 54,
+        "quote": "All data handling activities must be logged and documented within the ZenDesk ticket",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/acceptable-use-policy.txt#L54"
+      }
+    ]
+  },
+  {
+    "id": "Q019",
+    "difficulty": "medium",
+    "question": "Разрешается ли передавать коллегам учётные данные от компьютера GitLab или сторонних сервисов, используемых компанией?",
+    "expected_answer": "Нет, передавать свои учётные данные и давать другим пользоваться своим аккаунтом или корпоративным компьютером запрещено. Исключение касается использования одобренных технологий единого входа (SSO) и аналогичных механизмов.",
+    "source_file": "data/raw/handbook/people-group/acceptable-use-policy.txt",
+    "source_section": "Unacceptable Use / Unacceptable System and Network Activities",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/acceptable-use-policy.txt#L87",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/acceptable-use-policy/",
+    "evidence": [
+      {
+        "line": 87,
+        "quote": "Sharing your credentials for any GitLab-managed computer or 3rd party service that GitLab uses with others, or allowing use of your account or a GitLab-managed computer by others. This prohibition does not apply to single-sign-on or similar technologies, the use of which is approved.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/acceptable-use-policy.txt#L87"
+      }
+    ]
+  },
+  {
+    "id": "Q020",
+    "difficulty": "hard",
+    "question": "Куда может обратиться человек, столкнувшийся с харассментом в GitLab, если не хочет разговаривать с нарушителем напрямую, и кто затем проводит расследование?",
+    "expected_answer": "О нарушении следует сообщить Chief People Officer, в Team Member Relations или People Business Partner. После обращения проводится беспристрастное расследование: его ведёт People Business Partner либо независимая сторона в зависимости от обстоятельств и серьёзности ситуации.",
+    "source_file": "data/raw/handbook/people-group/anti-harassment.txt",
+    "source_section": "Reporting Alleged Harassment",
+    "source_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/anti-harassment.txt#L92",
+    "source_page_url": "https://handbook.gitlab.com/handbook/people-group/anti-harassment/",
+    "evidence": [
+      {
+        "line": 92,
+        "quote": "If they do not wish to address the harasser directly or the behavior doesn't cease, they should report the misconduct to the Chief People Officer, Team Member Relations or a People Business Partner.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/anti-harassment.txt#L92"
+      },
+      {
+        "line": 93,
+        "quote": "Once reported, an impartial investigation will be conducted by a People Business Partner or by an independent third party, depending on the severity and circumstances of the complaint.",
+        "github_url": "https://github.com/mbdrsystem2024/multi-agent-corrective-rag/blob/main/data/raw/handbook/people-group/anti-harassment.txt#L93"
+      }
+    ]
+  }
+]
