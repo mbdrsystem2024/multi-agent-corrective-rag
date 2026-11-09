@@ -134,7 +134,7 @@ def main(question: str):
         model=os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite"),
         temperature=0, max_retries=2, timeout=120,
     )
-    
+
     graph = build_graph(model, store)
     for event in graph.stream({"question": question}, stream_mode="updates"):
         for node, update in event.items():
