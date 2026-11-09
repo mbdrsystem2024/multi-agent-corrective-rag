@@ -226,3 +226,6 @@ __marimo__/
 .env
 chroma_db/
 .venv/
+memory/
+.env.*
+!.env.example
